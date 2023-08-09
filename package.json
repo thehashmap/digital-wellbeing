@@ -1,0 +1,26 @@
+{
+  "name": "digital-wellbeing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehashmap/digital-wellbeing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehashmap/digital-wellbeing/issues"
+  },
+  "homepage": "https://github.com/thehashmap/digital-wellbeing#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.243",
+    "browserify": "^17.0.0",
+    "tsify": "^5.0.4",
+    "typescript": "^5.1.6"
+  }
+}
